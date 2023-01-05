@@ -38,7 +38,8 @@ html {
   background-color: lemonchiffon;
   size: 100px;
   align-items: stretch;
-  text-decoration-color: black;
+  font-weight: 100;
+  font-style: italic;
   
 }
 
